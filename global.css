@@ -1,0 +1,13 @@
+/* global.css */
+:root {
+    --font-family: 'Poppins', sans-serif;
+    /* Fonte Poppins */
+}
+
+body {
+    font-family: var(--font-family);
+    margin: 0;
+    padding: 0;
+}
+
+/* Outras configurações globais aqui */
